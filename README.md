@@ -48,8 +48,8 @@ The Bangalore_house_predictor.ipynb file shows the cumulative process of extract
 ### Command to Run ###
 
 Download as .py file and run the following on the command line
-            python Bangalore_house_predictor.py
-
+            
+    python Bangalore_house_predictor.py
 
 **Versions used**:
 Python 3.7
